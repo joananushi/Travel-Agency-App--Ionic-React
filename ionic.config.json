@@ -1,0 +1,8 @@
+{
+  "name": "travel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1e548d9f"
+}
